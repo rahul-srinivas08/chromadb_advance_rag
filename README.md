@@ -1,2 +1,2 @@
 # chromadb_advance_rag
-advance rag with querry expanding and recompositin of ranks
+advance rag with querry expanding and query recomposition of ranks,pitfall of rag and retrieval distractor 
