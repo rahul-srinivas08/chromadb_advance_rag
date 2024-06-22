@@ -5,3 +5,9 @@ an advanced rag with query expanding and query recomposition of ranks, the pitfa
   -  create multiple queries from llm by giving the original query, do retrieval on vector db on original and generated query by llm, and pass retrieval documents to llm to create a response
 - cross encoder re-rank: re-rank the response  from retrieval response vector db adding relevance score, select top re rank score for llm input
 - query adaptor: update query embedding to get better relevance from vector db for query
+- fine tune llm on retrival.
+    - RA-DIT retrieval augmented dual instruction tuning
+    - Instruct retro 
+- deep chunking
+- deep relevance modeling like re-rank cross encoder
+- deep embedding adaptors
